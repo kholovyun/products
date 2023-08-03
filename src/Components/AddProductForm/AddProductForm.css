@@ -1,0 +1,23 @@
+.add__form {
+    border-collapse: collapse;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.add__form > input {
+    margin: 1em;
+    height: 30px;
+    width: 300px;
+}
+
+.add__form > button {
+    background-color: transparent;
+    border: none;
+    width: 20%;
+    position: absolute;
+    left: 40%;
+    height: 100%;
+    font-size: 80px;
+    border: 0.5px solid wheat;
+    border-radius: 10px;
+}

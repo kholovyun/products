@@ -1,0 +1,7 @@
+.product__container {
+    margin: 0 auto;
+    max-width: 1000px;
+    padding: 20px 80px 80px 80px;
+    background-color: rgb(10, 55, 38);
+    color: white;
+}
